@@ -9,4 +9,4 @@ In contrary to total infection, limited infection tries to infect a group of use
 ## Exact Infection
 This is a modified version of limited infection that infects exactly the number of users as specified. 
 ## Future Work
-I'd love to add multiple possible app "version" attrobute in the user model and integrate the version flow with infection process. Also I'd want to visualize the infection process, potentially with D3.js.
+I'd love to add multiple possible app "version" attribute in the user model and integrate the version flow with infection process. Also I'd want to visualize the infection process, potentially with D3.js.
